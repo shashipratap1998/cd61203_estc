@@ -4,7 +4,7 @@ This repository contains Python notebooks related to [describe the purpose of yo
 
 ## Notebooks:
 
-1. **MODULE_III_CLASS_I(I).ipynb**
+1. **MODULE_III_CLASS_I(I).ipynb** 
    - Topics covered:
      - Strings, string manipulation
      - Strings and integers
@@ -62,7 +62,7 @@ This project is licensed under the Apache
 
 ## Acknowledgments
 
-[This Repository was created to record/show the project, codes, problems and concepts from the course **CD61203 Essential Tools for Scientific Computing** in the Autumn Semester of **Indian Institute of Technology Kharagpur**.]
+This Repository was created to record/show the project, codes, problems and concepts from the course **CD61203 Essential Tools for Scientific Computing** in the Autumn Semester of **Indian Institute of Technology Kharagpur**.
 
 Feel free to explore the notebooks and contribute to the project!
 
